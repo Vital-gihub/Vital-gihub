@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+CodeCodeAscension!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vital!" />
 </h1>
 
 <h3 align="center">🤖 AI/ML Enthusiast | Data Science Explorer | Passionate Tech Learner</h3>
@@ -12,14 +12,12 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 I am a **sophomore majoring in Computer Science**.
-- 💼 Currently working as a **development intern at Anker**.
-- 🛠️ My internship mainly involves projects related to **MCP, Spring AI, and large language models**—areas I am truly passionate about.
-- 🚀 I enjoy delving into these **cutting-edge technologies** and sharing my learning journey.
-- 🌟 I have also created my personal tech brand **“CodeCodeAscension”** on Douyin, where I discuss technical topics and share insights on social media.
-- 📱 **Douyin account:** 44564254111
-- 👥 **QQ groups:** 957107236, 1047084604
-- 🤝 Let’s **learn and grow together!**
+- 🎓 I am a **sophomore majoring in Computer Science and Technology**.
+- 🔧 Have hands-on experience in developing a **robot client based on Qt**—gained insights into GUI design and hardware-software interaction.
+- 📱 Also developed **WeChat Mini Programs**, focusing on front-end interface design and user experience optimization.
+- 🚀 Passionate about exploring cross-platform development and practical software engineering projects.
+- 🌟 Enjoy turning creative ideas into functional applications and sharing the learning process.
+- 🤝 Always open to collaborating on interesting projects and exchanging technical insights!
 
 ---
 
