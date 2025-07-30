@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=images"https://github.com/Vital/Vital/blob/main/images/37c92bc21bbfe783ae6fd06c6febece1_720w.gif?raw=true" alt="Animated Header" width="100%" />
+  <img src=images"https://github.com/Vital-gihub/Vital-gihub/blob/main/images/37c92bc21bbfe783ae6fd06c6febece1_720w.gif?raw=true" alt="Animated Header" width="100%" />
 </p>
 
 <h1 align="center">
